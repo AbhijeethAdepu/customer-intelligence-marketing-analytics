@@ -1,0 +1,101 @@
+customer_id,historical_orders,historical_spend,average_order_value,last_order_date,historical_recency,repeat_purchase_30d,purchase_probability,propensity_category,inactivity_risk,customer_segment,rfm_score,cluster,cluster_name,recommended_campaign
+customer_0001,62,48260,778.3870967741935,2024-11-26 14:00:00,2,1,91.15,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0002,80,64084,801.05,2024-11-24 20:41:00,4,1,97.14,High,Low Risk,Champions,455,1,High-Value Frequent Customers,Loyalty Reward
+customer_0003,78,56385,722.8846153846154,2024-11-28 14:00:00,0,1,95.96,High,Low Risk,Champions,455,1,High-Value Frequent Customers,Loyalty Reward
+customer_0004,74,59605,805.472972972973,2024-11-26 18:04:00,2,1,95.93,High,Low Risk,Loyal Customers,355,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0005,76,63309,833.0131578947369,2024-11-24 13:33:00,4,1,96.66,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0006,81,68959,851.3456790123457,2024-11-18 23:37:00,9,1,97.69,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0007,88,71494,812.4318181818181,2024-11-16 08:01:00,12,1,98.31,High,Low Risk,Champions,455,1,High-Value Frequent Customers,Loyalty Reward
+customer_0008,75,64720,862.9333333333333,2024-11-28 04:36:00,0,1,96.74,High,Low Risk,Loyal Customers,355,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0009,81,63087,778.8518518518518,2024-11-24 10:29:00,4,1,97.13,High,Low Risk,Champions,455,1,High-Value Frequent Customers,Loyalty Reward
+customer_0010,85,61046,718.1882352941177,2024-11-18 03:56:00,10,1,97.25,High,Low Risk,At Risk,255,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0011,54,45840,848.8888888888889,2024-11-26 03:33:00,2,1,87.78,High,Low Risk,Champions,455,1,High-Value Frequent Customers,Loyalty Reward
+customer_0012,49,36575,746.4285714285714,2024-11-26 09:49:00,2,1,81.21,High,Low Risk,Loyal Customers,344,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0013,57,41531,728.6140350877193,2024-11-23 04:29:00,5,1,87.13,High,Low Risk,Loyal Customers,355,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0014,46,34465,749.2391304347826,2024-11-26 08:28:00,2,1,78.32,High,Low Risk,Champions,544,1,High-Value Frequent Customers,Loyalty Reward
+customer_0015,43,29151,677.9302325581396,2024-11-25 05:17:00,3,1,72.96,High,Low Risk,At Risk,144,0,Regular Customers,Personalized Recommendation
+customer_0016,59,46822,793.5932203389831,2024-11-27 06:00:00,1,1,89.84,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0017,58,47964,826.9655172413793,2024-11-25 08:48:00,3,1,89.9,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0018,49,43644,890.6938775510204,2024-11-24 14:22:00,4,1,84.76,High,Low Risk,Loyal Customers,355,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0019,40,30020,750.5,2024-11-16 05:37:00,12,1,71.28,High,Low Risk,Champions,444,1,High-Value Frequent Customers,Loyalty Reward
+customer_0020,43,36933,858.9069767441861,2024-11-25 23:38:00,2,1,78.0,High,Low Risk,Loyal Customers,344,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0021,40,33157,828.925,2024-11-26 02:18:00,2,1,73.62,High,Low Risk,Champions,544,1,High-Value Frequent Customers,Loyalty Reward
+customer_0022,51,45923,900.4509803921569,2024-11-08 19:50:00,20,1,86.45,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0023,55,43494,790.8,2024-11-13 23:50:00,14,0,87.09,High,Low Risk,At Risk,155,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0024,53,42549,802.811320754717,2024-11-28 04:09:00,0,1,86.04,High,Low Risk,Loyal Customers,355,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0025,53,42177,795.7924528301887,2024-11-27 15:04:00,1,1,85.87,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0026,46,30624,665.7391304347826,2024-11-28 15:27:00,0,1,75.95,High,Low Risk,At Risk,244,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0027,40,35085,877.125,2024-11-27 15:22:00,1,1,74.91,High,Low Risk,Champions,444,1,High-Value Frequent Customers,Loyalty Reward
+customer_0028,56,45462,811.8214285714286,2024-11-28 11:59:00,0,1,88.37,High,Low Risk,Champions,555,1,High-Value Frequent Customers,Loyalty Reward
+customer_0029,46,36201,786.9782608695652,2024-11-23 01:29:00,5,1,79.3,High,Low Risk,Loyal Customers,344,1,High-Value Frequent Customers,Personalized Recommendation
+customer_0030,45,33561,745.8,2024-11-14 06:52:00,14,1,76.97,High,Low Risk,Champions,544,1,High-Value Frequent Customers,Loyalty Reward
+customer_0031,13,8352,642.4615384615385,2024-11-25 15:39:00,3,1,31.82,Low,Low Risk,New Customers,422,0,Regular Customers,Second Order Offer
+customer_0032,29,22231,766.5862068965517,2024-11-17 14:59:00,11,1,56.21,Medium,Low Risk,Potential Loyalists,533,0,Regular Customers,Loyalty Building Campaign
+customer_0033,33,28042,849.7575757575758,2024-11-21 14:58:00,7,1,64.36,Medium,Low Risk,Champions,444,0,Regular Customers,Engagement Campaign
+customer_0034,31,19035,614.0322580645161,2024-11-25 02:23:00,3,1,55.74,Medium,Low Risk,Potential Loyalists,432,0,Regular Customers,Loyalty Building Campaign
+customer_0035,22,15395,699.7727272727273,2024-11-17 19:17:00,11,1,44.41,Medium,Low Risk,Needs Attention,322,0,Regular Customers,Engagement Campaign
+customer_0036,27,20899,774.0370370370371,2024-11-14 17:19:00,14,1,53.22,Medium,Low Risk,Potential Loyalists,433,0,Regular Customers,Loyalty Building Campaign
+customer_0037,36,30084,835.6666666666666,2024-11-24 14:32:00,4,1,68.44,Medium,Low Risk,Champions,444,0,Regular Customers,Engagement Campaign
+customer_0038,32,30233,944.78125,2024-11-25 14:37:00,3,1,65.19,Medium,Low Risk,At Risk,244,0,Regular Customers,Engagement Campaign
+customer_0039,32,25621,800.65625,2024-11-27 17:11:00,1,1,61.79,Medium,Low Risk,At Risk,243,0,Regular Customers,Engagement Campaign
+customer_0040,25,21232,849.28,2024-11-28 15:25:00,0,1,51.82,Medium,Low Risk,New Customers,423,0,Regular Customers,Second Order Offer
+customer_0041,23,20248,880.3478260869565,2024-11-11 22:03:00,16,1,48.66,Medium,Low Risk,New Customers,522,0,Regular Customers,Second Order Offer
+customer_0042,20,15969,798.45,2024-10-27 23:04:00,31,0,42.29,Medium,Medium Risk,Needs Attention,122,2,Inactive / At-Risk Customers,Reactivation Offer
+customer_0043,28,23784,849.4285714285714,2024-11-25 05:21:00,3,1,56.63,Medium,Low Risk,Potential Loyalists,534,0,Regular Customers,Loyalty Building Campaign
+customer_0044,34,23436,689.2941176470588,2024-10-25 08:01:00,34,1,61.11,Medium,Medium Risk,Loyal Customers,343,0,Regular Customers,Reactivation Offer
+customer_0045,25,21273,850.92,2024-11-28 09:26:00,0,1,51.85,Medium,Low Risk,Potential Loyalists,433,0,Regular Customers,Loyalty Building Campaign
+customer_0046,24,18646,776.9166666666666,2024-11-24 18:49:00,4,1,48.84,Medium,Low Risk,Needs Attention,322,0,Regular Customers,Engagement Campaign
+customer_0047,29,21735,749.4827586206897,2024-11-19 13:59:00,9,1,55.88,Medium,Low Risk,Potential Loyalists,533,0,Regular Customers,Loyalty Building Campaign
+customer_0048,26,19137,736.0384615384615,2024-10-28 00:08:00,31,1,50.53,Medium,Medium Risk,Potential Loyalists,333,0,Regular Customers,Reactivation Offer
+customer_0049,22,16050,729.5454545454545,2024-11-28 17:44:00,0,1,45.11,Medium,Low Risk,Needs Attention,222,0,Regular Customers,Engagement Campaign
+customer_0050,35,28365,810.4285714285714,2024-11-25 08:04:00,3,1,66.38,Medium,Low Risk,At Risk,144,0,Regular Customers,Engagement Campaign
+customer_0051,25,15730,629.2,2024-11-18 09:50:00,10,1,47.55,Medium,Low Risk,Needs Attention,222,0,Regular Customers,Engagement Campaign
+customer_0052,35,28879,825.1142857142858,2024-11-21 17:32:00,7,1,66.68,Medium,Low Risk,Loyal Customers,344,0,Regular Customers,Engagement Campaign
+customer_0053,27,17475,647.2222222222222,2024-11-20 16:53:00,8,1,50.77,Medium,Low Risk,At Risk,232,0,Regular Customers,Engagement Campaign
+customer_0054,26,21008,808.0,2024-10-21 10:48:00,38,1,51.76,Medium,Medium Risk,Potential Loyalists,433,0,Regular Customers,Reactivation Offer
+customer_0055,29,23493,810.1034482758621,2024-11-12 04:01:00,16,1,57.06,Medium,Low Risk,Potential Loyalists,433,0,Regular Customers,Loyalty Building Campaign
+customer_0056,34,27034,795.1176470588235,2024-11-28 04:15:00,0,1,64.62,Medium,Low Risk,Loyal Customers,344,0,Regular Customers,Engagement Campaign
+customer_0057,26,21226,816.3846153846154,2024-11-21 08:05:00,7,0,52.65,Medium,Low Risk,Needs Attention,123,0,Regular Customers,Engagement Campaign
+customer_0058,31,24694,796.5806451612904,2024-11-27 07:53:00,1,0,60.18,Medium,Low Risk,At Risk,133,0,Regular Customers,Engagement Campaign
+customer_0059,27,21552,798.2222222222222,2024-11-28 15:13:00,0,1,54.04,Medium,Low Risk,Potential Loyalists,433,0,Regular Customers,Loyalty Building Campaign
+customer_0060,25,22779,911.16,2024-11-22 21:26:00,6,1,52.81,Medium,Low Risk,Potential Loyalists,333,0,Regular Customers,Loyalty Building Campaign
+customer_0061,33,24001,727.3030303030303,2024-11-25 07:00:00,3,1,61.38,Medium,Low Risk,Loyal Customers,343,0,Regular Customers,Engagement Campaign
+customer_0062,27,21154,783.4814814814815,2024-11-27 23:47:00,0,1,53.74,Medium,Low Risk,At Risk,233,0,Regular Customers,Engagement Campaign
+customer_0063,28,20399,728.5357142857143,2024-11-28 02:32:00,0,1,54.13,Medium,Low Risk,At Risk,232,0,Regular Customers,Engagement Campaign
+customer_0064,29,24704,851.8620689655172,2024-11-22 18:59:00,6,1,58.22,Medium,Low Risk,At Risk,233,0,Regular Customers,Engagement Campaign
+customer_0065,26,25501,980.8076923076924,2024-11-28 00:44:00,0,1,55.98,Medium,Low Risk,Potential Loyalists,434,0,Regular Customers,Loyalty Building Campaign
+customer_0066,34,29497,867.5588235294117,2024-11-27 09:24:00,1,1,66.43,Medium,Low Risk,Loyal Customers,344,0,Regular Customers,Engagement Campaign
+customer_0067,25,18067,722.68,2024-11-23 17:41:00,5,1,49.38,Medium,Low Risk,Potential Loyalists,533,0,Regular Customers,Loyalty Building Campaign
+customer_0068,30,22715,757.1666666666666,2024-11-26 19:46:00,2,1,57.72,Medium,Low Risk,At Risk,233,0,Regular Customers,Engagement Campaign
+customer_0069,23,19385,842.8260869565217,2024-11-16 17:47:00,12,1,48.15,Medium,Low Risk,Needs Attention,223,0,Regular Customers,Engagement Campaign
+customer_0070,30,27127,904.2333333333332,2024-11-14 01:15:00,14,1,60.81,Medium,Low Risk,Potential Loyalists,334,0,Regular Customers,Loyalty Building Campaign
+customer_0071,11,9180,834.5454545454545,2024-11-20 07:12:00,8,1,29.84,Low,Low Risk,Needs Attention,211,0,Regular Customers,Engagement Campaign
+customer_0072,14,12319,879.9285714285714,2024-11-16 08:40:00,12,1,34.26,Low,Low Risk,Needs Attention,222,0,Regular Customers,Engagement Campaign
+customer_0073,8,4872,609.0,2024-08-14 06:13:00,106,1,24.18,Low,High Risk,New Customers,511,0,Regular Customers,Win-Back Campaign
+customer_0074,11,10670,970.0,2024-11-21 01:37:00,7,0,30.24,Low,Low Risk,Needs Attention,112,3,Low-Frequency High-AOV Customers,Engagement Campaign
+customer_0075,11,8886,807.8181818181819,2024-10-21 13:28:00,38,1,29.18,Low,Medium Risk,New Customers,511,0,Regular Customers,Reactivation Offer
+customer_0076,13,7317,562.8461538461538,2024-11-07 00:09:00,21,1,31.08,Low,Low Risk,New Customers,421,0,Regular Customers,Second Order Offer
+customer_0077,17,11994,705.5294117647059,2024-11-15 15:13:00,13,0,37.28,Low,Low Risk,Needs Attention,122,2,Inactive / At-Risk Customers,Engagement Campaign
+customer_0078,19,13503,710.6842105263158,2024-11-22 01:20:00,6,1,40.32,Medium,Low Risk,Needs Attention,222,0,Regular Customers,Engagement Campaign
+customer_0079,21,18825,896.4285714285714,2024-11-14 21:48:00,13,1,45.63,Medium,Low Risk,New Customers,522,0,Regular Customers,Second Order Offer
+customer_0080,12,6825,568.75,2024-10-16 22:35:00,42,0,29.55,Low,Medium Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Reactivation Offer
+customer_0081,8,3951,493.875,2024-11-17 23:29:00,10,1,25.87,Low,Low Risk,New Customers,511,0,Regular Customers,Second Order Offer
+customer_0082,15,9323,621.5333333333333,2024-11-25 04:36:00,3,0,34.18,Low,Low Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Engagement Campaign
+customer_0083,11,9491,862.8181818181819,2024-11-19 13:30:00,9,0,29.9,Low,Low Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Engagement Campaign
+customer_0084,15,10928,728.5333333333333,2024-11-18 04:14:00,10,1,34.77,Low,Low Risk,Needs Attention,222,0,Regular Customers,Engagement Campaign
+customer_0085,20,14886,744.3,2024-11-08 09:05:00,20,0,41.86,Medium,Low Risk,Needs Attention,122,2,Inactive / At-Risk Customers,Engagement Campaign
+customer_0086,14,8434,602.4285714285714,2024-11-16 04:00:00,12,1,32.64,Low,Low Risk,Needs Attention,321,0,Regular Customers,Engagement Campaign
+customer_0087,13,12469,959.1538461538462,2024-11-16 00:19:00,12,1,33.15,Low,Low Risk,Needs Attention,212,0,Regular Customers,Engagement Campaign
+customer_0088,8,5994,749.25,2024-11-19 18:20:00,9,0,25.9,Low,Low Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Engagement Campaign
+customer_0089,17,13525,795.5882352941177,2024-10-15 11:55:00,44,1,37.42,Low,Medium Risk,Needs Attention,222,0,Regular Customers,Reactivation Offer
+customer_0090,15,10903,726.8666666666667,2024-10-28 15:48:00,31,0,34.31,Low,Medium Risk,Needs Attention,122,2,Inactive / At-Risk Customers,Reactivation Offer
+customer_0091,7,6275,896.4285714285714,2024-11-21 04:18:00,7,1,24.67,Low,Low Risk,Needs Attention,211,0,Regular Customers,Engagement Campaign
+customer_0092,5,4354,870.8,2024-10-04 16:48:00,55,0,21.53,Low,Medium Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Reactivation Offer
+customer_0093,8,6898,862.25,2024-11-14 05:41:00,14,0,25.82,Low,Low Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Engagement Campaign
+customer_0094,3,4136,1378.6666666666667,2024-09-25 10:31:00,64,1,17.63,Low,High Risk,Needs Attention,311,3,Low-Frequency High-AOV Customers,Win-Back Campaign
+customer_0095,6,5583,930.5,2024-08-13 17:51:00,107,1,21.74,Low,High Risk,New Customers,411,0,Regular Customers,Win-Back Campaign
+customer_0096,3,2847,949.0,2024-04-23 20:49:00,219,1,16.83,Low,High Risk,New Customers,511,3,Low-Frequency High-AOV Customers,Win-Back Campaign
+customer_0097,6,6545,1090.8333333333333,2024-10-24 18:47:00,35,0,22.69,Low,Medium Risk,Needs Attention,111,3,Low-Frequency High-AOV Customers,Reactivation Offer
+customer_0098,6,3727,621.1666666666666,2024-10-23 09:42:00,36,0,23.35,Low,Medium Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Reactivation Offer
+customer_0099,5,3865,773.0,2024-07-17 16:51:00,134,0,20.49,Low,High Risk,Needs Attention,111,2,Inactive / At-Risk Customers,Win-Back Campaign
+customer_0100,4,5309,1327.25,2024-10-26 21:24:00,33,0,19.54,Low,Medium Risk,Needs Attention,111,3,Low-Frequency High-AOV Customers,Reactivation Offer
